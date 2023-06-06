@@ -1,5 +1,15 @@
 <h1 align="center">Hiya amigos <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Noel.<br>
+        Currently learning kubernetes.<br>
+        Dipping my toe into the chaotic world of webdev.<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/noelxl">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
 <!--
 **NoelXP/NoelXP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
