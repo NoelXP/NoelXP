@@ -30,6 +30,29 @@
 [![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://hub.docker.com/u/noelxp)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://hub.docker.com/u/noelxp)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://hub.docker.com/u/noelxp)
+
+ ### OS
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/noelxp)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/noelxp)
     
+### Code brought to you by
+[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://hub.docker.com/u/noelxp)
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://hub.docker.com/u/noelxp)
+[![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://hub.docker.com/u/noelxp)
+
 ### Favorite Texas Hold 'em Hand
 Jack ♧ Nine ♦
+    
+<p align="center">
+  <a href="https://github.com/noelxp">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noelxp&theme=transparent" />
+  </a>
+</p>
+
+<!-- 
+<p align="center">
+  <a href="https://github.com/noelxp">
+    <img src="https://komarev.com/ghpvc/?username=noelxp&color=blue&style=flat)" />
+  </a>
+</p>
+-- >
