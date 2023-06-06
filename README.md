@@ -1,4 +1,4 @@
-### Hiya amigos! And all other 300,000 bounty hunters in the galaxy! 👋
+<h1 align="center">Hiya amigos, all 300,000 bounty hunters in the solar system! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <!--
 **NoelXP/NoelXP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
