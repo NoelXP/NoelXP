@@ -49,10 +49,14 @@ Jack ♧ Nine ♦
   </a>
 </p>
 
-<!-- 
+
 <p align="center">
-  <a href="https://github.com/noelxp">
-    <img src="https://komarev.com/ghpvc/?username=noelxp&color=blue&style=flat)" />
-  </a>
+    <i>
+ “Alice: Would you tell me, please, which way I ought to go from here? <br>
+The Cheshire Cat: That depends a good deal on where you want to get to. <br>
+Alice: I don't much care where. <br>
+The Cheshire Cat: Then it doesn't much matter which way you go. <br>
+Alice: ...So long as I get somewhere. <br>
+The Cheshire Cat: Oh, you're sure to do that, if only you walk long enough.” <br>
+    </i>
 </p>
--- >
