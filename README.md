@@ -15,7 +15,7 @@
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/noelxp)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/noelxp)
 [![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/noelxp)
-[![SQL](https://img.shields.io/badge/mysql-%003545.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/noelxp)
+[![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/noelxp)
 [![Rust](https://img.shields.io/badge/rust-%23DC322F.svg?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/noelxp)
   
 ### Technologies
