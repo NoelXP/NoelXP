@@ -4,7 +4,6 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Noel. My job is to automate all the things. <br>
-        Currently learning kubernetes.<br>
         Dipping my toe into the chaotic world of webdev.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/noelxl">
