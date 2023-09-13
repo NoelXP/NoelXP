@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Noel. My job is to automate all the things. <br>
-        Got my CKA for Kubernetes! If you know what to do with it send me a message! :D
+        Got my CKA for Kubernetes! If you know what to do with it send me a message! :D. <br>
         Dipping my toe into the chaotic world of webdev.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/noelxl">
