@@ -25,6 +25,8 @@
 [![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://hub.docker.com/u/noelxp)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://hub.docker.com/u/noelxp)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://hub.docker.com/u/noelxp)
+[![ArgoCD](https://img.shields.io/badge/Argocd-EF7B4D?&style=for-the-badge&logo=Argo&logoColor=white)](https://hub.docker.com/u/noelxp)
+
 
 ### Clouds
 [![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://hub.docker.com/u/noelxp)
