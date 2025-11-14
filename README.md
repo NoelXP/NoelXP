@@ -26,7 +26,7 @@
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://hub.docker.com/u/noelxp)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://hub.docker.com/u/noelxp)
 [![ArgoCD](https://img.shields.io/badge/Argocd-EF7B4D?&style=for-the-badge&logo=Argo&logoColor=white)](https://hub.docker.com/u/noelxp)
-[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?&styke=for-the-badge&logo=gitlab&logoColor=fff)](https://hub.docker.com/u/noelxp)
+[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?&style=for-the-badge&logo=gitlab&logoColor=fff)](https://hub.docker.com/u/noelxp)
 
 
 ### Clouds
